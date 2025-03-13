@@ -1,7 +1,6 @@
 {
   "private": true,
   "scripts": {
-    "postinstall": "./node_modules/.bin/node-pre-gyp install --fallback-to-build",
     "build": "next build",
     "dev": "next dev --turbopack",
     "start": "next start"
